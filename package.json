@@ -59,7 +59,7 @@
     "fbemitter": "2.1.1",
     "path": "^0.12.7",
     "pixi-spine": "^1.5.11",
-    "pixi.js": "^5.7.0",
+    "pixi.js": "6",
     "url": "^0.11.0"
   },
   "peerDependencies": {
